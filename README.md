@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Bhaswanth Ayapilla
-#### I am passionate about Robotics, Reinforcement Learning and Deep Learning
+# Hi there 👋, I'm Bhaswanth Ayapilla
+## I am passionate about Robotics, Reinforcement Learning and Deep Learning
 
 <!--
 **Bhaswanth-A/Bhaswanth-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +25,7 @@ Here are some ideas to get you started:
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+---
+
+## My blog posts
