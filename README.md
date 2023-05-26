@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ---
 
 ## My blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
