@@ -40,3 +40,7 @@
 - [Chess Engine using Reinforcement Learning](https://bhaswanth-a.github.io//posts/chess-engine-rl/)
 - [Path Planning](https://bhaswanth-a.github.io//posts/path-planning/)
 <!-- BLOG-POST-LIST:END -->
+
+You can also scan the QR code below to go to my website 
+
+<img align="left" alt="QR" width="350" src="website_qr2.png">
