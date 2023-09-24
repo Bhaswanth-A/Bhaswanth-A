@@ -3,7 +3,7 @@
 
 
 - 🦾 I’m currently doing my thesis at ISR Lisboa in underwater robotics.
-- 🔭 I'm also a summer intern at MARMOT Lab, NUS where I'm working in reinforcement learning.
+- 🔭 I'm also an intern at MARMot Lab, NUS where I'm working in reinforcement learning.
 - 🌱 I’m currently learning reinforcement learning.
 - 📫 How to reach me: bhaswanthayapilla@gmail.com
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/
