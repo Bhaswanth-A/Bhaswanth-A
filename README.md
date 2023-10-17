@@ -3,8 +3,9 @@
 
 
 - 🦾 I’m currently doing my thesis at ISR Lisboa in underwater robotics.
-- 🔭 I'm also an intern at MARMot Lab, NUS where I'm working in reinforcement learning.
-- 🌱 I’m currently learning reinforcement learning.
+- 🔭 I also interned at MARMot Lab, NUS where I worked on multi-agent traffic signal control using reinforcement learning.
+- 🌱 I’m currently building a simulator for Autonomous Underwater Gliders.
+- 💻 Check out my latest work at: https://github.com/Bhaswanth-A/AUG-Simulator
 - 📫 How to reach me: bhaswanthayapilla@gmail.com
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/
 
