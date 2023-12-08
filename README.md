@@ -35,11 +35,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Development of Python-Based Simulator for Analyzing Autonomous Underwater Glider Motions and Performance](https://bhaswanth-a.github.io//posts/aug-simulator/)
 - [Swarm Robot Tasks and Algorithms](https://bhaswanth-a.github.io//posts/swarm-algorithms/)
 - [Swarm Robot Coordination](https://bhaswanth-a.github.io//posts/swarm-robot-coordination/)
 - [Probabilistic Robotics](https://bhaswanth-a.github.io//posts/aifr/)
 - [Chess Engine using Reinforcement Learning](https://bhaswanth-a.github.io//posts/chess-engine-rl/)
-- [Path Planning](https://bhaswanth-a.github.io//posts/path-planning/)
 <!-- BLOG-POST-LIST:END -->
 
 You can also scan the QR code below to go to my website 
