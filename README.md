@@ -2,9 +2,17 @@
 <h2 align="center">I am passionate about Robotics, Reinforcement Learning and Deep Learning</h2>
 
 
+<!--
 - 🦾 I’m currently doing my thesis at Institute for Systems and Robotics (ISR) Lisbon in underwater robotics.
 - 🔭 I also interned at MARMot Lab, NUS where I worked on multi-agent traffic signal control using reinforcement learning.
 - 🌱 I’m currently building a simulator for Autonomous Underwater Gliders.
+- 💻 Check out my latest work at: https://github.com/Bhaswanth-A/AUG-Simulator
+- 📫 How to reach me: bhaswanthayapilla@gmail.com
+- 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/ -->
+
+- 🏫 I’m currently pursuing my MS in Robotic Systems Development (MRSD) at Carnegie Mellon University.
+- 🦾 I previously completed my undergraduate thesis at the Institute for Systems and Robotics (ISR) Lisbon in underwater robotics.
+- 🔭 I also interned at MARMot Lab, NUS where I worked on multi-agent traffic signal control using reinforcement learning.
 - 💻 Check out my latest work at: https://github.com/Bhaswanth-A/AUG-Simulator
 - 📫 How to reach me: bhaswanthayapilla@gmail.com
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/
@@ -42,6 +50,6 @@
 - [Swarm Robot Coordination](https://bhaswanth-a.github.io//posts/swarm-robot-coordination/)
 <!-- BLOG-POST-LIST:END -->
 
-You can also scan the QR code below to go to my website 
+<!-- You can also scan the QR code below to go to my website 
 
-<img align="left" alt="QR" width="350" src="website_qr2.png">
+<img align="left" alt="QR" width="350" src="website_qr2.png"> -->
