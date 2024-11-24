@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bhaswanth Ayapilla</h1>
-<h2 align="center">I am passionate about Robotics, Reinforcement Learning and Deep Learning</h2>
+<h2 align="center">I am passionate about Robotics and Computer Vision</h2>
 
 
 <!--
