@@ -43,11 +43,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Development of Python-Based Simulator for Analyzing Autonomous Underwater Glider Motions and Performance](https://bhaswanth-a.github.io//posts/aug-simulator/)
-- [Controller for Autonomous Surface Vehicle](https://bhaswanth-a.github.io//posts/asv/)
-- [Multi-Agent Traffic Signal Control using Reinforcement Learning](https://bhaswanth-a.github.io//posts/phase-duration-control-rl/)
-- [Swarm Robot Tasks and Algorithms](https://bhaswanth-a.github.io//posts/swarm-algorithms/)
-- [Swarm Robot Coordination](https://bhaswanth-a.github.io//posts/swarm-robot-coordination/)
+- [Coursework at CMU](https://bhaswanth-a.github.io//posts/cmu-blog/)
+- [Introduction to Computer Vision](https://bhaswanth-a.github.io//posts/computer-vision-24/)
+- [Lunar ROADSTER](https://bhaswanth-a.github.io//posts/lunar-roadster-cmu/)
+- [Manipulation, Estimation, and Control](https://bhaswanth-a.github.io//posts/mec-24/)
+- [Robot Mobility on Air, Land, and Sea](https://bhaswanth-a.github.io//posts/mobility-24/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
