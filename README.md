@@ -45,11 +45,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Robotics Business](https://bhaswanth-a.github.io//posts/intro-robotics-business-25/)
+- [Learning for 3D Vision](https://bhaswanth-a.github.io//posts/learning-3d-vision-25/)
+- [Robot Autonomy](https://bhaswanth-a.github.io//posts/robot-autonomy-25/)
 - [Coursework at CMU](https://bhaswanth-a.github.io//posts/cmu-blog/)
 - [MuJoCo Basics](https://bhaswanth-a.github.io//posts/mujoco-basics/)
-- [Micro-ROS, RCL, &amp;amp; RCLC](https://bhaswanth-a.github.io//posts/micro-ros/)
-- [Introduction to Computer Vision](https://bhaswanth-a.github.io//posts/computer-vision-24/)
-- [Lunar ROADSTER](https://bhaswanth-a.github.io//posts/lunar-roadster-cmu/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
