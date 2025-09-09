@@ -45,11 +45,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Wheeled Biped](https://bhaswanth-a.github.io//posts/wheeled-biped/)
 - [Deep Learning - Perceptrons](https://bhaswanth-a.github.io//posts/deep-learning-perceptrons/)
 - [Deep Learning - CNNs, RNNs, &amp;amp; Language Models](https://bhaswanth-a.github.io//posts/deep-learning-cnn-rnn-lang/)
 - [Deep Learning](https://bhaswanth-a.github.io//posts/deep-learning/)
 - [Milwaukee Tool](https://bhaswanth-a.github.io//posts/milwaukee-tool/)
-- [Planning and Decision Making](https://bhaswanth-a.github.io//posts/planning-decision-making/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
