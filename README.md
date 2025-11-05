@@ -46,10 +46,10 @@
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Wheeled Biped](https://bhaswanth-a.github.io//posts/wheeled-biped/)
-- [Deep Learning - Perceptrons](https://bhaswanth-a.github.io//posts/deep-learning-perceptrons/)
-- [Deep Learning - CNNs, RNNs, &amp;amp; Language Models](https://bhaswanth-a.github.io//posts/deep-learning-cnn-rnn-lang/)
-- [Deep Learning](https://bhaswanth-a.github.io//posts/deep-learning/)
 - [Milwaukee Tool](https://bhaswanth-a.github.io//posts/milwaukee-tool/)
+- [Accelerating Search-Based Planning for Multi-Robot Manipulation by Leveraging Online-Generated Experiences](https://bhaswanth-a.github.io//posts/cbs-multi-arm/)
+- [Language-Conditioned BEV Perception for Autonomous Driving](https://bhaswanth-a.github.io//posts/vlr-bev/)
+- [Deep Learning - Perceptrons](https://bhaswanth-a.github.io//posts/deep-learning-perceptrons/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
