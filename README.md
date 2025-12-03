@@ -45,11 +45,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [All About Search Algorithms](https://bhaswanth-a.github.io//posts/all-about-search-algorithms/)
+- [Case Studies of Planning and Decision-Making in Robotics](https://bhaswanth-a.github.io//posts/planning-case-studies/)
 - [Wheeled Biped](https://bhaswanth-a.github.io//posts/wheeled-biped/)
 - [Milwaukee Tool](https://bhaswanth-a.github.io//posts/milwaukee-tool/)
 - [Accelerating Search-Based Planning for Multi-Robot Manipulation by Leveraging Online-Generated Experiences](https://bhaswanth-a.github.io//posts/cbs-multi-arm/)
-- [Language-Conditioned BEV Perception for Autonomous Driving](https://bhaswanth-a.github.io//posts/vlr-bev/)
-- [Deep Learning - Perceptrons](https://bhaswanth-a.github.io//posts/deep-learning-perceptrons/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
