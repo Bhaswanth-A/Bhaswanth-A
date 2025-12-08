@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bhaswanth Ayapilla</h1>
-<h2 align="center">I am passionate about Robotics and Computer Vision</h2>
+<h2 align="center">I am passionate about Robotics, Computer Vision</h2>
 
 
 <!--
@@ -21,7 +21,7 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaswanth-A&theme=radical&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhaswanth-A&theme=radical&show_icons=true) -->
 
 <!--
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
