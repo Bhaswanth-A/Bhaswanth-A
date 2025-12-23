@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Bhaswanth Ayapilla</h1>
-<h2 align="center">I am passionate about Robotics, Computer Vision</h2>
+<h2 align="center">I am passionate about Robotics, Vision, and Learning-based Autonomy</h2>
 
 
 <!--
@@ -11,8 +11,7 @@
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/ -->
 
 - 🏫 I’m currently pursuing my MS in Robotic Systems Development (MRSD) at Carnegie Mellon University
-- :rocket: I'm working on my capstone project in Space Robotics under Dr. William "Red" Whittaker — building the [Lunar ROADSTER](https://bhaswanth-a.github.io/posts/lunar-roadster-cmu/)
-- 🦾 I previously completed my undergraduate thesis at the Institute for Systems and Robotics (ISR) Lisbon in underwater robotics
+- :rocket: I recently completed my capstone project in Space Robotics under Dr. William "Red" Whittaker: [Lunar ROADSTER](https://bhaswanth-a.github.io/posts/lunar-roadster-cmu/)
 - 💻 Check out my latest work at: https://github.com/Lunar-ROADSTER
 - 📫 How to reach me: bhaswanthayapilla@gmail.com
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/
