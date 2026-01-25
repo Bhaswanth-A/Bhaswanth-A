@@ -44,11 +44,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Modal Machine Learning](https://bhaswanth-a.github.io//posts/mmml/)
+- [Reinforcement Learning](https://bhaswanth-a.github.io//posts/reinforcement-learning/)
+- [Robot Learning](https://bhaswanth-a.github.io//posts/robot-learning/)
 - [Memory Management in C++](https://bhaswanth-a.github.io//posts/memory-management-cpp/)
-- [All About Search Algorithms](https://bhaswanth-a.github.io//posts/all-about-search-algorithms/)
-- [Case Studies of Planning and Decision-Making in Robotics](https://bhaswanth-a.github.io//posts/planning-case-studies/)
-- [Wheeled Biped](https://bhaswanth-a.github.io//posts/wheeled-biped/)
-- [Milwaukee Tool](https://bhaswanth-a.github.io//posts/milwaukee-tool/)
+- [Diffusion and Flow Matching](https://bhaswanth-a.github.io//posts/diffusion-flow-matching/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
