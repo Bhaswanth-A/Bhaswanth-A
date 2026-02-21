@@ -44,11 +44,11 @@
 
 ## 📚 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Deep Reinforcement Learning](https://bhaswanth-a.github.io//posts/advanced-deep-rl/)
+- [Deep Reinforcement Learning](https://bhaswanth-a.github.io//posts/deep-rl/)
+- [Introduction to Reinforcement Learning](https://bhaswanth-a.github.io//posts/intro-to-rl/)
 - [Multi-Modal Machine Learning](https://bhaswanth-a.github.io//posts/mmml/)
 - [Reinforcement Learning](https://bhaswanth-a.github.io//posts/reinforcement-learning/)
-- [Robot Learning](https://bhaswanth-a.github.io//posts/robot-learning/)
-- [Memory Management in C++](https://bhaswanth-a.github.io//posts/memory-management-cpp/)
-- [Diffusion and Flow Matching](https://bhaswanth-a.github.io//posts/diffusion-flow-matching/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
