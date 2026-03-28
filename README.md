@@ -46,9 +46,9 @@
 <!-- BLOG-POST-LIST:START -->
 - [Advanced Deep Reinforcement Learning](https://bhaswanth-a.github.io//posts/advanced-deep-rl/)
 - [Deep Reinforcement Learning](https://bhaswanth-a.github.io//posts/deep-rl/)
+- [RIO: Humanoid Robot Control &amp;amp; VR Teleoperation Integration](https://bhaswanth-a.github.io//posts/rio-system/)
+- [Humanoid Whole-Body Manipulation](https://bhaswanth-a.github.io//posts/humanoid-wbc/)
 - [Introduction to Reinforcement Learning](https://bhaswanth-a.github.io//posts/intro-to-rl/)
-- [Multi-Modal Machine Learning](https://bhaswanth-a.github.io//posts/mmml/)
-- [Reinforcement Learning](https://bhaswanth-a.github.io//posts/reinforcement-learning/)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- You can also scan the QR code below to go to my website 
