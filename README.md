@@ -10,9 +10,8 @@
 - 📫 How to reach me: bhaswanthayapilla@gmail.com
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/ -->
 
-- 🏫 I’m currently pursuing my MS in Robotic Systems Development (MRSD) at Carnegie Mellon University
+- 🏫 I just completed my MS in Robotic Systems Development (MRSD) at Carnegie Mellon University
 - :rocket: I recently completed my capstone project in Space Robotics under Dr. William "Red" Whittaker: [Lunar ROADSTER](https://bhaswanth-a.github.io/posts/lunar-roadster-cmu/)
-- 💻 Check out my latest work at: https://github.com/Lunar-ROADSTER
 - 📫 How to reach me: bhaswanthayapilla@gmail.com
 - 👨‍💻 All of my projects are available at: https://bhaswanth-a.github.io/
 <!--- 🔭 I also interned at MARMot Lab, NUS where I worked on multi-agent traffic signal control using reinforcement learning. -->
